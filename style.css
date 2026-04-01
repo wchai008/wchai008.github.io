@@ -7,7 +7,7 @@ body {
 header {
   background-color: #0021A5; /* UF blue */
   color: white;
-  padding: 100px;
+  padding: 20px;
 }
 
 nav {
@@ -23,7 +23,7 @@ nav a {
 }
 
 .container {
-  padding: 20px;
+  padding: 100px;
   max-width: 1000px;
   margin: auto;
   background: white;
