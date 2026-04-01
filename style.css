@@ -7,7 +7,8 @@ body {
 header {
   font-family: 'Georgia', serif;  
     font-size: 36px;                
-    color: #2c3e50;  ;
+    color: #2c3e50; 
+  text-align: center;
 }
 
 nav {
